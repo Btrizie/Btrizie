@@ -1,5 +1,5 @@
 [![MasterHead](https://media.licdn.com/dms/image/D4E16AQF_FVYtluNUwg/profile-displaybackgroundimage-shrink_350_1400/0/1693495073952?e=1712793600&v=beta&t=T1uzlEpcHP65-H5NfDDxHoZMzoMRcTmgze-ZLtfRkl4)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Beatriz</h1>
+<h1 align="center">Hello world👋, I'm Beatriz</h1>
 <h3 align="center">A computer science student from Brazil, still in the learning process but getting there..</h3>
 
 <h3 align="center">- 🌱 I’m currently learning **Javascript, Java and C**</h3>
@@ -18,3 +18,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=btrizie&show_icons=true&locale=en&layout=compact" alt="btrizie" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=btrizie&show_icons=true&locale=en" alt="btrizie" /></p>
+
+<h1 align="center">🐕</h1>
