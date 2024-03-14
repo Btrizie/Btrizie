@@ -2,10 +2,10 @@
 <h1 align="center">Hi 👋, I'm Beatriz</h1>
 <h3 align="center">A computer science student from Brazil, still in the learning process but getting there..</h3>
 
-<h1 align="center">- 🌱 I’m currently learning **Javascript, Java and C**
-- 💬 Ask me about **Game design and AI**
-- 📫 How to reach me **biacavalari1@gmail.com**
-- ⚡ Fun fact **I like to learn curious facts about different computer languages**</h1>
+<h3 align="center">- 🌱 I’m currently learning **Javascript, Java and C**</h3>
+<h3 align="center">- 💬 Ask me about **Game design and AI**</h3>
+<h3 align="center">- 📫 How to reach me **biacavalari1@gmail.com**</h3>
+<h3 align="center">- ⚡ Fun fact **I like to learn curious facts about different computer languages**</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
