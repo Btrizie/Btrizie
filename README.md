@@ -1,15 +1,11 @@
 [![MasterHead](https://media.licdn.com/dms/image/D4E16AQF_FVYtluNUwg/profile-displaybackgroundimage-shrink_350_1400/0/1693495073952?e=1712793600&v=beta&t=T1uzlEpcHP65-H5NfDDxHoZMzoMRcTmgze-ZLtfRkl4)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Beatriz</h1>
 <h3 align="center">A computer science student from Brazil, still in the learning process but getting there..</h3>
-<img align="right" alt="coding" width="300" src="https://mp-cache-assets-production.izea.com/ai/ivpxe4d9isu1je4a20xwcw1fp9r3_watermark.png">
 
-- 🌱 I’m currently learning **Javascript and Java**
-
+<h1 align="center">- 🌱 I’m currently learning **Javascript, Java and C**
 - 💬 Ask me about **Game design and AI**
-
 - 📫 How to reach me **biacavalari1@gmail.com**
-
-- ⚡ Fun fact **I like to learn curious facts about different computer languages**
+- ⚡ Fun fact **I like to learn curious facts about different computer languages**</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
