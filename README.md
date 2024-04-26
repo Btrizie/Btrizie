@@ -1,4 +1,3 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4E16AQF_FVYtluNUwg/profile-displaybackgroundimage-shrink_350_1400/0/1693495073952?e=1712793600&v=beta&t=T1uzlEpcHP65-H5NfDDxHoZMzoMRcTmgze-ZLtfRkl4)](https://rishavchanda.io)
 <h1 align="center">Hello world👋, I'm Beatriz</h1>
 <h3 align="center">A computer science student from Brazil, still in the learning process but getting there..</h3>
 
