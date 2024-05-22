@@ -16,6 +16,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=btrizie&show_icons=true&locale=en&layout=compact" alt="btrizie" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=btrizie&show_icons=true&locale=en" alt="btrizie" /></p>
-
 <h1 align="center">🐕</h1>
