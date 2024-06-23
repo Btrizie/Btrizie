@@ -1,20 +1,27 @@
-<h1 align="center">Hello world👋, I'm Beatriz</h1>
-<h3 align="center">A computer science student from Brazil, still in the learning process but getting there..</h3>
+<h1>Hello world, I'm Beatriz</h1>
 
-<h3 align="center">- 🌱 I’m currently learning **Java and C**</h3>
-<h3 align="center">- 💬 Ask me about **Game design and AI**</h3>
-<h3 align="center">- 📫 How to reach me **biacavalari1@gmail.com**</h3>
-<h3 align="center">- ⚡ Fun fact **I like to learn curious facts about different computer languages**</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/beatriz-cavalari23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/beatriz-cavalari23/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+# 💫 About Me:
+A computer science student from Brazil, still in the learning process but getting there...
+- 🌱 I’m currently **learning Java and C**
+- 💬 Ask me about **Game design and AI**
+- 📫 How to reach me **biacavalari1@gmail.com**
+- ⚡ Fun fact **I like to learn curious facts about different computer languages**
 <h1 align="center">🐕</h1>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=btrizie&show_icons=true&locale=en&layout=compact" alt="btrizie" /></p>
+
+# 🌐 Connect with me:
+<p align="left">
+<a href="https://www.linkedin.com/in/beatriz-cavalari23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/beatriz-cavalari23/" height="30" width="40" /></a>
+
+# 💻 Tech Stack:
+<a target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="c" width="40" height="40"/> </a>
+<a target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="java" width="40" height="40"/> </a> 
+<a target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoBD" width="40" height="40"/> </a>
+<a target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="SQL" width="40" height="40"/> </a> 
 
 
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=Btrizie&theme=neon&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Btrizie&theme=neon&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Created using : https://gprm.itsvg.in & https://github.com/marwin1991/profile-technology-icons -->
