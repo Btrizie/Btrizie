@@ -21,7 +21,6 @@ A computer science student from Brazil, still in the learning process but gettin
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Btrizie&theme=neon&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Btrizie&theme=neon&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Created using : https://gprm.itsvg.in & https://github.com/marwin1991/profile-technology-icons -->
